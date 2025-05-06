@@ -3600,3 +3600,7 @@ details-disclosure > details {
 .rich-text__heading{
   color: red !important;
 }
+
+.rich-text__text p{
+  color: yellow;
+}
